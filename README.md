@@ -1,3 +1,4 @@
+
 # Awesome Wayland [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [Wayland](https://wayland.freedesktop.org) is a computer protocol that specifies the communication between a display server and its clients
@@ -31,6 +32,8 @@
 ### Terminal Emulators
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal) 
+
+This is good place to find native wayland applications https://github.com/swaywm/sway/wiki/Running-programs-natively-under-wayland
 
 ## Contribute
 
