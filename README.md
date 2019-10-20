@@ -1,3 +1,4 @@
+
 # Awesome Wayland [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [Wayland](https://wayland.freedesktop.org) is a computer protocol that specifies the communication between a display server and its clients
@@ -47,6 +48,8 @@
 ### Clipboard Libraries and Manager
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
+
+This is good place to find native wayland applications https://github.com/swaywm/sway/wiki/Running-programs-natively-under-wayland
 
 ## Contribute
 
