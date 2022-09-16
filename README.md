@@ -11,7 +11,7 @@
 - [GUI libraries](#libraries)
 - [Compositors](#compositors)
 - [Applications](#applications)
-  - [Terminal Emulators](#terminal)
+- [Terminal Emulators](#terminal)
 
 ## libraries
 
@@ -44,6 +44,10 @@
 ### Launchers
 - [wofi](https://hg.sr.ht/~scoopta/wofi)
 - [bemenu](https://github.com/Cloudef/bemenu)
+
+
+### Video Recorder
+- [gpu-screen-recorder-gtk](https://git.dec05eba.com/gpu-screen-recorder-gtk/about/)
 
 ### Clipboard Libraries and Manager
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
